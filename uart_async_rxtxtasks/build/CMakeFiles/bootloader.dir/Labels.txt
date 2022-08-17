@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/program/uart_async_rxtxtasks/build/CMakeFiles/bootloader
+D:/program/uart_async_rxtxtasks/build/CMakeFiles/bootloader.rule
+D:/program/uart_async_rxtxtasks/build/CMakeFiles/bootloader-complete.rule
+D:/program/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/program/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/program/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/program/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/program/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/program/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/program/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
